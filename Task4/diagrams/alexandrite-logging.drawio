@@ -189,7 +189,7 @@
             <mxGeometry x="1540" y="650" width="310" height="155" as="geometry" />
           </mxCell>
         </object>
-        <object id="opensearch" c4Name="OpenSearch" c4Type="Container" c4Technology="Хранилище и поиск" c4Description="Индексы по источникам&lt;br&gt;prod — 90 дней" placeholders="1" label="&lt;b style=&quot;font-size:18px&quot;&gt;%c4Name%&lt;/b&gt;&lt;br&gt;[%c4Type%: %c4Technology%]&lt;br&gt;&lt;br&gt;%c4Description%">
+        <object id="opensearch" c4Name="OpenSearch" c4Type="Container" c4Technology="Хранилище и поиск" c4Description="Месячные индексы по источникам&lt;br&gt;prod — 3–4 месяца" placeholders="1" label="&lt;b style=&quot;font-size:18px&quot;&gt;%c4Name%&lt;/b&gt;&lt;br&gt;[%c4Type%: %c4Technology%]&lt;br&gt;&lt;br&gt;%c4Description%">
           <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF1F2;strokeColor=#C62828;fontColor=#172033;strokeWidth=3;fontSize=13;spacing=12;arcSize=12;">
             <mxGeometry x="1990" y="650" width="310" height="155" as="geometry" />
           </mxCell>
